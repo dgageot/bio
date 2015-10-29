@@ -11,7 +11,7 @@ var (
 		`Hi!`,
 		``,
 		`I am David Gageot, freelance geek`,
-		`I❤ Java, Tests, Cloud, Front Dev. c[_] rulez`,
+		`I ❤ Java, Tests, Cloud, Front Dev. c[_] rulez`,
 		`I'm addicted to ultra-fast feedback. ie. I'm not patient (-.-)Zzz…`,
 		``,
 		`You might know my blog JavaBien.net`,
