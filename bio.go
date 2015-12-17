@@ -10,22 +10,25 @@ var (
 	bioEN = []string{
 		`Hi!`,
 		``,
-		`I am David Gageot, freelance geek`,
-		`I ❤ Java, Tests, Cloud, Front Dev. c[_] rulez`,
-		`I'm addicted to ultra-fast feedback. ie. I'm not patient (-.-)Zzz…`,
+		`I am David Gageot`,
+		`Software Engineer @Docker in Paris`,
+		`I've been ❤ing Java for the past 20 years`,
+		`No I do Go for the BETTER and the worse`,
+		`I'm addicted to ultra-fast feedback.`,
 		``,
 		`You might know my blog JavaBien.net`,
 	}
 
 	bioFR = []string{
-		`Bonjour,`,
+		`Hi!`,
 		``,
-		`Je suis David Gageot, geek freelance`,
-		`J'❤ Java, les Tests, le Cloud, le dev Front. c[_] rulez`,
-		`Je suis accro au feedback rapide. ie. impatient (-.-)Zzz…`,
-		`Vous suivez peut-etre mon blog JavaBien.net`,
+		`I am David Gageot`,
+		`Software Engineer @Docker in Paris`,
+		`I've been ❤ing Java for the past 20 years`,
+		`No I do Go for the BETTER and the worse`,
+		`I'm addicted to ultra-fast feedback.`,
 		``,
-		`@dgageot`,
+		`You might know my blog JavaBien.net`,
 	}
 )
 
